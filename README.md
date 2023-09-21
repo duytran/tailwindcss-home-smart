@@ -1,1 +1,0 @@
-# tailwindcss-home-smart
